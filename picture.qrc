@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ark1.ico</file>
+        <file>ark2.ico</file>
+        <file>ark3.ico</file>
+        <file>2226.png</file>
+        <file>login.png</file>
+        <file>rhode_island.png</file>
+        <file>towe1.png</file>
+        <file>texas.jpg</file>
+        <file>0-1.png</file>
+        <file>0-1enemy.png</file>
+        <file>bullet.jpg</file>
+        <file>0-2.png</file>
+        <file>return.png</file>
+        <file>Pause (2).png</file>
+        <file>win.jpg</file>
+        <file>lose.png</file>
+        <file>teaxs_legend1.png</file>
+        <file>o_teaxs_legend2.png</file>
+        <file>mostima_legend3.png</file>
+        <file>legend_location.png</file>
+    </qresource>
+    <qresource prefix="/\"/>
+</RCC>

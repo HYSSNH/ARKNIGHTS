@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/enemy"/>
+    <qresource prefix="/">
+        <file>killed_sound.mp3</file>
+    </qresource>
+</RCC>
